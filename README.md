@@ -1,5 +1,5 @@
-### Hi, I'm Arian.
-# 💫 About Me:
+## Hi, I'm Arian.
+### Related description:
 💻Interested in computer science and technology<br>⚛️Currently working with React.js<br>💡Official member of IFIA (https://www.ifia.com)<br>
 
 
@@ -8,4 +8,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianSarafraz&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
