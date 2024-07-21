@@ -1,4 +1,4 @@
-###👋🏻Hi, I'm Arian.
+# 👋🏻Hi, I'm Arian.
 ### Related description:
 💻Interested in computer science and technology<br>⚛️Currently working with React.js<br>💡Official member of IFIA (https://www.ifia.com)<br>
 
