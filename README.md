@@ -1,6 +1,6 @@
 # 👋🏻Hi, I'm Arian.
 ### Related description:
-💻Interested in computer science and technology<br>🧑🏻‍💻Have a CS50x certificate(harvard university)<br>💡Official member of IFIA (https://www.ifia.com)<br>
+💻Interested in computer science and technology<br>🧑🏻‍💻Have a CS50x certificate (harvard university)<br>💡Official member of IFIA (https://www.ifia.com)<br>
 
 
 # 💻 Tech Stack:
